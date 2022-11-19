@@ -20,6 +20,12 @@ html5 may be kinda goofy rn ill fix later dw dw
 
 
 
+
+
+
+
+
+
 ## how to compile lolololo
 
 this is kinda like the og fnf one sooo yea 
