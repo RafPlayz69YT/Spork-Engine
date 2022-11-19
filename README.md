@@ -4,9 +4,19 @@ this engine is gonna be the bestest engine ever!!!
 
 html5 may be kinda goofy rn ill fix later dw dw
 
+
 [play html5](https://rafplayz.tk/spork/index.html)
+
+
+
 [download windows (sorry mac/linux users)](https://github.com/RafPlayz69YT/Spork-Engine/releases)
 
+
+
+## credits
+
+- [rafplayz69](https://www.youtube.com/channel/UCmXh1HTaH_KRwisl0892KLA) - coder
+- [drippy](https://www.youtube.com/@adhd6940) - name idea guy (basically his name suggestion got picked out of a couple)
 
 
 
