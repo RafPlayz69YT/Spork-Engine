@@ -4,6 +4,11 @@ this engine is gonna be the bestest engine ever!!!
 
 html5 may be kinda goofy rn ill fix later dw dw
 
+[play html5](https://rafplayz.tk/spork/index.html)
+[download windows (sorry mac/linux users)](https://github.com/RafPlayz69YT/Spork-Engine/releases)
+
+
+
 
 ## how to compile lolololo
 
